@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Arjun Rajput and I'm a MERN Stack Developer & Aspiring Cybersecurity Engineer, from Maharashtra, India 🇮🇳</h2>
 
 ###
 
@@ -47,3 +47,13 @@
 <img src="https://raw.githubusercontent.com/classyarjun/classyarjun/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<h3 align="left">👨‍💻 About Me</h3>
+
+- 🔭 I’m currently working as a **MERN Stack Developer (3+ years experience)**
+- 🌱 I’m learning **Python & Cybersecurity** to move into Ethical Hacking
+- ⚡ My team calls me **AK47** because I think fast and hit the target 🎯
+- 💡 Strong in **Networking, Full-Stack Development, and Problem Solving**
+- 🍫 I love **sweet food** and enjoy exploring tech gadgets
+- 🤝 Looking for **true friends, mentorship, and meaningful collaboration**
+
